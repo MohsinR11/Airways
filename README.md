@@ -37,21 +37,21 @@ The dashboard is designed to help you explore British Airways customer feedback 
 
 A line chart showing the average overall rating from March 2016 to October 2023.  
 
-***📈 Trend***: Ratings fluctuate over time, with noticeable dips and peaks (e.g., a significant drop around 2020, likely due to the pandemic).
+📈 ***Trend***: Ratings fluctuate over time, with noticeable dips and peaks (e.g., a significant drop around 2020, likely due to the pandemic).
 
 
 ## 2. Average Overall Rating by Country 🗺️  
 
 A world map highlighting average ratings by country of origin. 
 
-***🌎 Highlight***: Countries in Europe and North America are well-represented, with varying ratings (specific values not shown on the map).
+🌎 ***Highlight***: Countries in Europe and North America are well-represented, with varying ratings (specific values not shown on the map).
 
 
 ### 3. Average Overall Rating by Aircraft ✈️  
 
 Bar chart comparing average ratings and review counts across aircraft types (e.g., Boeing 747-400, Boeing 787, A320).  
 
-***🏆 Top Performer***: Boeing 747-400 has the highest average rating at 4.7 with 97 reviews, while A321 scores the lowest at 3.6 with 63 reviews.
+🏆 ***Top Performer***: Boeing 747-400 has the highest average rating at 4.7 with 97 reviews, while A321 scores the lowest at 3.6 with 63 reviews.
 
 ---
 
@@ -67,17 +67,17 @@ Here’s a glimpse of the dashboard! 🖼️
 
 Customize your analysis with these filters:  
 
-***📏 Pick a Metric***: Overall Rating (default) or other metrics like Cabin Staff Service, Entertainment, etc.  
+📏 ***Pick a Metric***: Overall Rating (default) or other metrics like Cabin Staff Service, Entertainment, etc.  
 
-***📅 Month of Date***: From March 2016 to October 2023  
+📅 ***Month of Date***: From March 2016 to October 2023  
 
-***💺 Seat Type***: All or specific types  
+💺 ***Seat Type***: All or specific types  
 
-***👤 Traveller Type***: All or specific types (e.g., Business, Leisure)  
+👤 ***Traveller Type***: All or specific types (e.g., Business, Leisure)  
 
-***✈️ Aircraft Type***: All or specific aircraft (e.g., Boeing 747-400, A320) 
+✈️ ***Aircraft Type***: All or specific aircraft (e.g., Boeing 747-400, A320) 
 
-***🌍 Continent***: All or specific continents
+🌍 ***Continent***: All or specific continents
 
 ---
 
