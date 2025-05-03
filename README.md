@@ -1,4 +1,4 @@
-# ** ✈️ British Airways Review 🛫 **
+# ✈️ British Airways Review 🛫
 
 
 ## 🌟 Overview
