@@ -53,7 +53,8 @@ Bar chart comparing average ratings and review counts across aircraft types (e.g
 
 
 
-🎨 Screenshots
+##🎨 Screenshots:
+
 Here’s a glimpse of the dashboard! 🖼️  
 
 ![image](https://github.com/user-attachments/assets/59d4d6a7-a016-4b4d-9e50-fddbb500cd3b)
