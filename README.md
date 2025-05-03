@@ -9,19 +9,19 @@ Welcome to the British Airways Review dashboard! 🛬 This Tableau project provi
 
 ## 🔑 Key Metrics
 
-⭐ Average Overall Rating: 4.2  
+⭐ ****Average Overall Rating****: **4.2**  
 
-👥 Average Cabin Staff Service: 3.9  
+👥 ****Average Cabin Staff Service****: **3.9**  
 
-🎥 Average Entertainment: 1.4  
+🎥 ****Average Entertainment****: **1.4**  
 
-🍴 Average Food & Beverages: 2.4  
+🍴 ****Average Food & Beverages****: **2.4**  
 
-🛬 Average Ground Service: 3.0 
+🛬 ****Average Ground Service****: **3.0** 
 
-💺 Average Seat Comfort: 2.9  
+💺 ****Average Seat Comfort****: **2.9**  
 
-💸 Average Value for Money: 2.8
+💸 ****Average Value for Money****: **2.8**
 
 ---
 
@@ -97,13 +97,13 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes: 
 
-  - Review details (ratings for overall, cabin staff, entertainment, food, ground service, seat comfort, value for money)
+  - ***Review details*** (ratings for overall, cabin staff, entertainment, food, ground service, seat comfort, value for money)
     
-  - Temporal data (review dates)
+  - ***Temporal data*** (review dates)
     
-  - Geographic data (country, continent)
+  - ***Geographic data*** (country, continent)
     
-  - Flight details (aircraft type, seat type, traveller type)
+  - ***Flight details*** (aircraft type, seat type, traveller type)
 
 ---
 
