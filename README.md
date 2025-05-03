@@ -5,6 +5,7 @@
 
 Welcome to the British Airways Review dashboard! 🛬 This Tableau project provides a detailed analysis of customer reviews for British Airways, focusing on ratings across various categories, aircraft types, and geographic regions. It covers reviews from March 2016 to October 2023, offering insights into customer satisfaction trends through interactive visualizations. 📊
 
+---
 
 ## 🔑 Key Metrics
 
@@ -22,16 +23,17 @@ Welcome to the British Airways Review dashboard! 🛬 This Tableau project provi
 
 💸 Average Value for Money: 2.8
 
+---
 
 ## 🛠️ Dashboard Features
 
 The dashboard is designed to help you explore British Airways customer feedback with ease. Use the filters to customize your analysis and uncover trends in passenger satisfaction! 🔍
 
 
-📊 Visualizations
+### 📊 Visualizations
 
 
-## 1. Average Overall Rating by Month 📅  
+### 1. Average Overall Rating by Month 📅  
 
 A line chart showing the average overall rating from March 2016 to October 2023.  
 
@@ -45,13 +47,13 @@ A world map highlighting average ratings by country of origin.
 🌎 Highlight: Countries in Europe and North America are well-represented, with varying ratings (specific values not shown on the map).
 
 
-## 3. Average Overall Rating by Aircraft ✈️  
+### 3. Average Overall Rating by Aircraft ✈️  
 
 Bar chart comparing average ratings and review counts across aircraft types (e.g., Boeing 747-400, Boeing 787, A320).  
 
 🏆 Top Performer: Boeing 747-400 has the highest average rating at 4.7 with 97 reviews, while A321 scores the lowest at 3.6 with 63 reviews.
 
-
+---
 
 ## 🎨 Screenshot:
 
@@ -59,6 +61,7 @@ Here’s a glimpse of the dashboard! 🖼️
 
 ![image](https://github.com/user-attachments/assets/59d4d6a7-a016-4b4d-9e50-fddbb500cd3b)
 
+---
 
 ## 🧩 Filters
 
@@ -76,6 +79,7 @@ Customize your analysis with these filters:
 
 🌍 Continent: All or specific continents
 
+---
 
 ## 🚀 Usage
 
@@ -85,6 +89,7 @@ Apply Filters: Use the dropdowns to filter by Metric, Month, Seat Type, Travelle
 
 Interact: Hover over charts for details or click to drill down. 🖱️
 
+---
 
 ## ⚙️ Requirements
 
@@ -100,8 +105,19 @@ The dataset is preloaded in the workbook. To replicate, ensure your dataset incl
   - 
   - Flight details (aircraft type, seat type, traveller type)
 
+---
 
 # 🤝 Contributing
 
 Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Mohsin Raza**. I’m an aspiring Data Analyst/Data Engineer.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
 
